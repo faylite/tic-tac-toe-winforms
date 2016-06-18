@@ -1,8 +1,10 @@
 # Tic Tac Toe - WinForms
 A simple tic-tac-toe game made with WinForms with a basic AI
 
+This project was started and completed around spring 2014, but was not in version control until I found the old code in 2016 (crazy right?) ;P
+
 ## Download
-You can download the game at my dropbox
+You can download the game here
 
 [Download](https://www.dropbox.com/sh/7jtkq1lzukeiiey/AAC2h12zIro2yTs02cJp2Zx0a?dl=0)
 
